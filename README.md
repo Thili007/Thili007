@@ -3,7 +3,7 @@
 
 <h1 align="center">Hey 👋, I'm Thilina Priyalal Punchi Hewage</h1>
 <h3 align="center">A passionate FullStack Developer</h3>
-<img align="right" alt="Coding_guy" width="600" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" alt="Coding_guy" width="450" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thili007&label=Profile%20views&color=0e75b6&style=flat" alt="thili007" /> </p>
 
 - 💬 Ask me about **react, MongoDb, Nodejs, Expressjs, TypeScript, HTML, CSS, Redux, Material-UI**
